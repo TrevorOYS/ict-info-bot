@@ -1,0 +1,15 @@
+{
+    "start": {"Commander's Letter": "Lorem Ipsum"},
+    "help": "This is a help message!",
+    "generalinfo": {"ICT Duration": "Lorem Ipsum",
+                    "Repost Venue": "Lorem Ipsum",
+                    "Training Programme": "Lorem Ipsum",
+                    "Packing List": "Lorem Ipsum",
+                    "Vehicle Registration": "Lorem Ipsum"},
+    "3dsbinfo": {"History/Heritage": "Lorem Ipsum",
+                 "Command Structure": "Lorem Ipsum",
+                 "Resources & Contact Info": "Lorem Ipsum"},
+    "onens": "Introduction to OneNS",
+    "feedback": "Provide your feedback here www.google.com",
+    "others": "Get other useful information here"
+}
